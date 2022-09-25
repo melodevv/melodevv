@@ -1,5 +1,6 @@
 # 🎯 Tlhokomelo
-**'Developer/Designer`**
+**`Developer and Designer`**
+
 
 ### 🧰 Languages and Tools
 
