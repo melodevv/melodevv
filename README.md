@@ -1,4 +1,5 @@
-# 🎯 Tlhokomelo
+# 🎨 Tlhokomelo
+
 **`Developer and Designer`**
 
 
