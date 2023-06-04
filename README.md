@@ -1,6 +1,4 @@
-# 🥇 Hi There 
-## I'm Tlhokomelo
-
+# 🥇 Hi There - I'm Tlhokomelo
 **`Developer and Designer`**
 
 
