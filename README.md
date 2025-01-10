@@ -1,6 +1,5 @@
 # 🥇 Hi There - I'm Tlhokomelo
-**`Developer and Designer`**
-
+I'm a passionate software developer with a strong foundation in Python, C#, Dart and a keen interest in web and app development and machine learning. I thrive on solving complex problems and delivering high-quality, efficient code.
 
 ### 🧰 Languages and Tools
 
