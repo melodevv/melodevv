@@ -16,6 +16,10 @@ I'm a passionate software developer with a strong foundation in Python, C#, Dart
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
 
+### 🌱 Currently Learning
+React: Building dynamic UIs with a component-based architecture.
+Node.js: Creating scalable backend services with JavaScript.
+
 ### GitHub Stats
 
 <a href="https://github.com/melodevv">
