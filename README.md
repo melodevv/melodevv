@@ -15,7 +15,8 @@ I'm a passionate software developer with a strong foundation in Python, C#, Dart
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
-
+<br />
+<br />
 
 ### 🌱 Currently Learning
 - React: Building dynamic UIs with a component-based architecture.
