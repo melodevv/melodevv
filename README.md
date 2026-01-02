@@ -1,6 +1,6 @@
-# 🥇 Tlhokomelo Direko - Software Engineer and Problem Solver
+# 🥇 Tlhokomelo Direko - Software Engineer
 
-Hi there! 👋 I'm a passionate software engineer with expertise in multiple technologies, specializing in web/mobile development and machine learning. I enjoy tackling complex challenges and crafting clean, efficient, and scalable solutions.
+Hi there! 👋 I'm a passionate software engineer with expertise in multiple technologies, specialising in web/mobile development and machine learning. I enjoy tackling complex challenges and crafting clean, efficient, and scalable solutions.
 
 ## 🔧 Tech Stack
 
